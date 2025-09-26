@@ -15,7 +15,7 @@ const app = express();
 // Security middleware
 app.use(helmet());
 app.use(cors({
-  origin: process.env.NODE_ENV === 'production' ? 'https://yourdomain.com' : 'http://localhost:3000',
+  origin: process.env.NODE_ENV === 'production' ? 'https://verto-ase-glez.vercel.app/' : 'http://localhost:3000',
   credentials: true
 }));
 
