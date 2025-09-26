@@ -2,7 +2,7 @@
 
 A comprehensive full-stack quiz application built with **React, Redux Toolkit, Node.js, Express, and Supabase**. Test your knowledge, track your progress, and compete with others on the leaderboard!
 <br>
-### URL :==>  https://verto-quiz-master.vercel.app/
+### Live URL :==>  https://verto-quiz-master.vercel.app/
 
 ---
 
