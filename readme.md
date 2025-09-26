@@ -58,7 +58,7 @@ QuizMaster is a modern, responsive online quiz platform that allows users to tak
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/quiz-master.git
+git clone https://github.com/ani2707/verto-ase
 cd quiz-master
 ```
 
